@@ -2,4 +2,5 @@
 Our program starts from helloApplication.java file. When you execute you will firstly see login screen. If you didn't registered you need to register. With using this page carrier,owner and customer connect to own page according to its role. If user is a customer, customer will see catalog page without image. After selecting product(s), user will see cart page. After than user vill see delivery and payment page. If user wants to see product that purchased, user must click summary button. After go back to the page, if user completes information without enterin credit card infos it will be evaluated as payment at door. But if user entered the credit infos and clicked to save button, after that, user will not be able to purchase products with home payment. After that user will see one more page. After clicking that button user completed purchase process successfully.
 	If user is an admin, admin will reach reports,employing or firing carriers , adding and updating products and viewing all deliveries.
         If user was a carrier, carrier can view orders according to status. But, if carrier select an order,carrier will not see selected order after clicking 'selected' tab. For viewing at selected part. carrier must log out and log in again.  
-        Image operations are not working
+	
+        Note: Image operations are not working
